@@ -1,0 +1,16 @@
+{
+  "name": "opencurrent",
+  "owner": {
+    "name": "OpenCurrent",
+    "url": "https://opencurrent.ai"
+  },
+  "description": "OpenCurrent: the latest dated AI agent setups, as one plugin for your coding agent.",
+  "plugins": [
+    {
+      "name": "opencurrent",
+      "source": "./",
+      "description": "에이전트에 바로 연결하는 최신 AI 활용법. Connects your agent to OpenCurrent and makes it look up the latest dated method before agent-setup tasks.",
+      "version": "0.1.0"
+    }
+  ]
+}

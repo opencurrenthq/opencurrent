@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "opencurrent",
+  "version": "0.1.0",
+  "description": "에이전트에 바로 연결하는 최신 AI 활용법. Connects your agent to OpenCurrent and makes it look up the latest dated method before agent-setup tasks.",
+  "author": {
+    "name": "OpenCurrent"
+  }
+}

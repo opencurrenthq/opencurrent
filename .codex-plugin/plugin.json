@@ -1,0 +1,22 @@
+{
+  "name": "opencurrent",
+  "version": "0.1.0",
+  "description": "에이전트에 바로 연결하는 최신 AI 활용법. Connects your agent to OpenCurrent and makes it look up the latest dated method before agent-setup tasks.",
+  "author": {
+    "name": "OpenCurrent"
+  },
+  "interface": {
+    "displayName": "OpenCurrent",
+    "shortDescription": "Latest agent setups, before you start",
+    "developerName": "OpenCurrent",
+    "category": "Coding",
+    "websiteURL": "https://opencurrent.ai",
+    "privacyPolicyURL": "https://opencurrent.ai/legal/privacy",
+    "termsOfServiceURL": "https://opencurrent.ai/legal/terms",
+    "defaultPrompt": [
+      "Find the latest way to set up an MCP server for this project"
+    ]
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}
